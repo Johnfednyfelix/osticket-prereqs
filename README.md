@@ -21,7 +21,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Install Web Platform Installer
 - Install PHP Version 7.3.8 
 - Install PHP Manager 1.5.0 for IIS 10
-- Install Microsoft Visual C++ 2009 Redistributable Package
 
 <h2>Installation Steps</h2>
 
