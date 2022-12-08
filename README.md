@@ -36,7 +36,7 @@ Installing and Enabling Internet Information Services Software.
 <img src="https://i.imgur.com/DBj7Jkm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Install and Enable Web Platform Installer
+Install and Enable Web Platform Installer.
 </p>
 <br />
 
